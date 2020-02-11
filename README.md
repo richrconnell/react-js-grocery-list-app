@@ -1,3 +1,14 @@
+### Summary
+
+This is a grocery list app made from React JS.  Users can add to the list and remove from te list, including quantities.
+
+### To Run
+
+1) Download/ Pull down the project.
+2) Run Yarn install
+3) yarn start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
